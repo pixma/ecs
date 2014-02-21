@@ -1,0 +1,6 @@
+@echo off
+cls
+echo Compiling your Source code...
+sdcc --opt-code-speed main.c
+packihx < main.ihx > main.hex
+echo process finish...

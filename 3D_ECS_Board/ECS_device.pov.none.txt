@@ -1,0 +1,10 @@
+Parts not found in 3dpack.dat or 3dusrpac.dat are:
+//C1	100uF	CPOL-RADIAL-100UF-25V
+//C3		CPOL-RADIAL-10UF-25V
+//C4		CAP-PTH-5MM
+//IC1		TO-220-ALT
+//J1		DCJ0303
+//JP1		1X02_LONGPADS
+//LED1		SFH482
+//Q2		TC38H
+//X1		DB9
